@@ -1,1 +1,1 @@
-플러터 프로젝트 입니다.
+It's flutter mobile app projects folder
