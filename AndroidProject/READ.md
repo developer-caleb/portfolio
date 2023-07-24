@@ -1,1 +1,1 @@
-Android 프로젝트 입니다.
+It's android mobile app projects folder.
