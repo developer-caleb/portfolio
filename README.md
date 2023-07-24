@@ -1,6 +1,6 @@
-# portfolio
-##### 안녕하세요, 개발자 백용익의 포트폴리오 자료 입니다.
-##### 블로그 - 캘럽의 개발일상을 운영하고 있습니다. 
+# Caleb's portfolio
+##### Hello, This is portfolio of Mobile App Developer Baek YongIk.
+##### Below website is about developer development routine. 
 ##### https://dev-caleb.tistory.com
-##### 문의사항은 env_foodtable@naver.com 또는 010-2851-9936으로
-##### 언제든지 문의 부탁 드립니다.
+##### if you have a question, do not hesitate to contact me. env_foodtable@naver.com or +82-10-2851-9936
+##### Best regards,
