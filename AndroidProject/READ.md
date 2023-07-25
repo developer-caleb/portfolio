@@ -1,6 +1,6 @@
 It's android mobile app projects folder.
 
-추후 업로드 예정입니다.
+추후 추가 업로드 예정입니다.
 
 
 ###GNSS - 측량기기 연동,
