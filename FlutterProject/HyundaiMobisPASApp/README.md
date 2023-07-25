@@ -9,4 +9,4 @@
 - [Controllers/GetXControllers](lib/app/modules/cart/controllers/cart_controller.dart)
 - [View/Pages/cart_item](lib/app/modules/cart/views/cart_item_view.dart)
 - [View/Pages/cart](lib/app/modules/cart/views/cart_view.dart)
-- [Enviroment](lib/core/environment.dart)
+- [Enviroment](lib/core/environment/environment.dart)
