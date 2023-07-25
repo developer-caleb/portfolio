@@ -1,10 +1,8 @@
-# hanaromart
+# hanaromart(23.06~23.07)
 
 하나로마트 앱
 
 ## 개발자 정보
-
-**AJ**
 
 **Caleb**
 - Email: [env_foodtable@naver.com](mailto:env_foodtable@naver.com)
@@ -17,3 +15,4 @@
 - [app-20/이벤트](lib/scrn/app_20/event_screen.dart)
 - [app-21/이벤트 상세](lib/scrn/app_21/event_detail_screen.dart)
 - [app-37/전체메뉴](lib/scrn/app_37/total_menu_screen.dart)
+
