@@ -1,5 +1,6 @@
 # 현대모비스 부품몰 앱 유지보수
 ##### 현대모비스 & 투나빛 과 함께한 프로젝트
+##### GetX & GetConnect
 ## 2022.09 ~ 2022.12
 
 - [DataModel/데이터모델](lib/app/data/models/cart_item.dart)
