@@ -1,4 +1,5 @@
-# hanaromart(23.06~23.07)
+# Hanaromart
+# (23.06~23.07)
 
 하나로마트 멤버쉽 쿠폰 / 전단지 앱
 소통의 편의를 위해 페이지는 app-xx 폴더로 제작 후 추후 refactoring 하기로 했었습니다.
@@ -9,7 +10,6 @@
 - Email: [env_foodtable@naver.com](mailto:env_foodtable@naver.com)
 - Phone: [010-2851-9936](tel:010-2851-9936)
 
-- [app-01/스플래시](lib/scrn/app_01/splash_screen.dart)
 - [app-02/접근 권한 설정](lib/scrn/app_02/permission_guide_screen.dart)
 - [app-03/홈화면](lib/scrn/app_03/home/home.dart)
 - [app-11/행사전단](lib/scrn/app_11/flyer_screen.dart)
