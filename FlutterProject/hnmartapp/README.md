@@ -19,4 +19,5 @@
 
 스크린샷들
 
-<img width="80%" src="./images/nh-1.jpeg"/>
+<img width="30%" src="./images/nh-1.jpeg"/>
+<img width="30%" src="./images/nh-2.jpeg"/><img width="30%" src="./images/nh-3.jpeg"/>
