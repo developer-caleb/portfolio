@@ -20,5 +20,6 @@
 ## 스크린샷들
 
 ### 메인화면
-<img width="100" src="./images/nh-1.jpeg"/>
-<img width="30px" src="./images/nh-2.jpeg"/><img width="30%" src="./images/nh-3.jpeg"/>
+<img width="200" src="./images/nh-1.jpeg"/>
+### 내 주변 마트 찾기
+<img width="200" src="./images/nh-2.jpeg"/><img width="30%" src="./images/nh-3.jpeg"/>
