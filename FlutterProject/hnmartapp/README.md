@@ -17,7 +17,8 @@
 - [app-21/이벤트 상세](lib/scrn/app_21/event_detail_screen.dart)
 - [app-37/전체메뉴](lib/scrn/app_37/total_menu_screen.dart)
 
-스크린샷들
+## 스크린샷들
 
-<img width="30%" src="./images/nh-1.jpeg"/>
+### 메인화면
+<img width="300" src="./images/nh-1.jpeg"/>
 <img width="30%" src="./images/nh-2.jpeg"/><img width="30%" src="./images/nh-3.jpeg"/>
